@@ -1,6 +1,6 @@
 # 🌦️  Weather
 
-Aplicativo em Python com interface feita em CustomTkinter e requisições HTTP usando Requests. Permite consultar o clima atual por CEP, cidade ou país, utilizando a API da [WeatherAPI](https://www.weatherapi.com/).
+Aplicativo em Python com interface feita em CustomTkinter e requisições HTTP usando Requests. Permite consultar o clima atual por cidade ou país, utilizando a API da [WeatherAPI](https://www.weatherapi.com/).
 
 ## Ferramentas utilizidas
 - Python 3
