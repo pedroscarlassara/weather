@@ -12,5 +12,3 @@ Aplicativo em Python com interface feita em CustomTkinter e requisições HTTP u
 1. Instale as dependências:
   pip install customtkinter requests
 2. Adicione sua chave da WeatherAPI no código.
-3. Run:
-   python main.py
